@@ -1,0 +1,27 @@
+product_id,product_name,category,sub_category,unit_price
+PRD0001,Wireless Mouse,Electronics,Accessories,499
+PRD0002,Bluetooth Speaker,Electronics,Audio,1299
+PRD0003,USB-C Hub,Electronics,Accessories,899
+PRD0004,Mechanical Keyboard,Electronics,Accessories,2499
+PRD0005,Power Bank 10000mAh,Electronics,Power,999
+PRD0006,Webcam HD,Electronics,Peripherals,1499
+PRD0007,Office Chair,Furniture,Seating,4999
+PRD0008,Study Desk,Furniture,Desks,6499
+PRD0009,Bookshelf,Furniture,Storage,3299
+PRD0010,Filing Cabinet,Furniture,Storage,5499
+PRD0011,Table Lamp,Furniture,Lighting,799
+PRD0012,Notebook Pack,Stationery,Paper,199
+PRD0013,Gel Pen Set,Stationery,Writing,149
+PRD0014,Sticky Notes,Stationery,Paper,99
+PRD0015,Whiteboard Marker Set,Stationery,Writing,249
+PRD0016,Desk Organizer,Stationery,Organizers,349
+PRD0017,Cotton T-Shirt,Apparel,Topwear,599
+PRD0018,Formal Shirt,Apparel,Topwear,1199
+PRD0019,Denim Jeans,Apparel,Bottomwear,1799
+PRD0020,Running Shoes,Apparel,Footwear,2999
+PRD0021,Hoodie,Apparel,Topwear,1599
+PRD0022,Non-stick Pan,Home & Kitchen,Cookware,1299
+PRD0023,Electric Kettle,Home & Kitchen,Appliances,899
+PRD0024,Storage Container Set,Home & Kitchen,Storage,449
+PRD0025,Dinner Plate Set,Home & Kitchen,Dinnerware,1099
+PRD0026,Coffee Mug Set,Home & Kitchen,Dinnerware,399
