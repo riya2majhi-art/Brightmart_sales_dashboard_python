@@ -1,0 +1,61 @@
+customer_id,customer_name,city,state,segment,signup_date
+CUST0001,Isha Iyer,Kolkata,West Bengal,Consumer,2023-07-18
+CUST0002,Sara Nair,Patna,Bihar,Home Office,2022-07-29
+CUST0003,Varun Pillai,Mumbai,Maharashtra,Consumer,2024-05-14
+CUST0004,Aarav Gupta,Bengaluru,Karnataka,Home Office,2023-04-22
+CUST0005,Karan Sharma,Jaipur,Rajasthan,Home Office,2023-02-12
+CUST0006,Isha Pillai,Pune,Maharashtra,Corporate,2023-03-28
+CUST0007,Pooja Banerjee,Guwahati,Assam,Consumer,2022-01-14
+CUST0008,Sneha Bose,Hyderabad,Telangana,Consumer,2023-07-24
+CUST0009,Diya Kapoor,Mumbai,Maharashtra,Corporate,2022-07-09
+CUST0010,Ishaan Malhotra,Chandigarh,Chandigarh,Home Office,2023-12-06
+CUST0011,Meera Verma,Patna,Bihar,Home Office,2024-07-29
+CUST0012,Ishaan Chopra,Mumbai,Maharashtra,Corporate,2025-02-04
+CUST0013,Shreya Mehta,Kochi,Kerala,Home Office,2024-01-11
+CUST0014,Diya Gupta,Kolkata,West Bengal,Corporate,2023-04-12
+CUST0015,Aditya Chatterjee,Chandigarh,Chandigarh,Corporate,2022-07-26
+CUST0016,Meera Sen,Bhopal,Madhya Pradesh,Consumer,2024-01-18
+CUST0017,Kunal Malhotra,Bengaluru,Karnataka,Home Office,2023-07-01
+CUST0018,Manish Gupta,Lucknow,Uttar Pradesh,Home Office,2022-12-17
+CUST0019,Varun Chatterjee,Delhi,Delhi,Corporate,2024-08-04
+CUST0020,Meera Pillai,Bengaluru,Karnataka,Consumer,2023-10-27
+CUST0021,Sara Verma,Guwahati,Assam,Corporate,2023-10-09
+CUST0022,Meera Gupta,Bengaluru,Karnataka,Home Office,2025-03-07
+CUST0023,Priya Das,Bhopal,Madhya Pradesh,Corporate,2024-10-19
+CUST0024,Kavya Sen,Delhi,Delhi,Consumer,2023-06-27
+CUST0025,Sara Pillai,Jaipur,Rajasthan,Home Office,2023-06-23
+CUST0026,Pooja Bose,Kochi,Kerala,Corporate,2025-04-10
+CUST0027,Kunal Chatterjee,Delhi,Delhi,Corporate,2024-11-09
+CUST0028,Aditya Verma,Chandigarh,Chandigarh,Consumer,2022-08-13
+CUST0029,Isha Reddy,Guwahati,Assam,Home Office,2024-05-14
+CUST0030,Aditya Chopra,Pune,Maharashtra,Home Office,2024-08-16
+CUST0031,Meera Pillai,Chandigarh,Chandigarh,Home Office,2022-01-24
+CUST0032,Varun Iyer,Bhopal,Madhya Pradesh,Corporate,2025-01-04
+CUST0033,Divya Kapoor,Mumbai,Maharashtra,Corporate,2023-08-25
+CUST0034,Ananya Sen,Kolkata,West Bengal,Home Office,2023-06-24
+CUST0035,Divya Reddy,Jaipur,Rajasthan,Home Office,2022-08-06
+CUST0036,Rohan Rao,Lucknow,Uttar Pradesh,Consumer,2023-02-12
+CUST0037,Kunal Reddy,Jaipur,Rajasthan,Consumer,2024-12-22
+CUST0038,Karan Kapoor,Ahmedabad,Gujarat,Consumer,2022-02-09
+CUST0039,Manish Malhotra,Kochi,Kerala,Consumer,2023-09-22
+CUST0040,Vivaan Chatterjee,Kochi,Kerala,Consumer,2025-03-07
+CUST0041,Aditya Ghosh,Chandigarh,Chandigarh,Home Office,2022-05-22
+CUST0042,Divya Nair,Delhi,Delhi,Home Office,2024-08-31
+CUST0043,Ananya Banerjee,Jaipur,Rajasthan,Consumer,2024-05-16
+CUST0044,Manish Pillai,Guwahati,Assam,Home Office,2023-02-16
+CUST0045,Rohan Chopra,Bhopal,Madhya Pradesh,Corporate,2024-02-04
+CUST0046,Kavya Rao,Ahmedabad,Gujarat,Consumer,2022-09-05
+CUST0047,Sara Gupta,Hyderabad,Telangana,Home Office,2022-02-13
+CUST0048,Aman Chatterjee,Lucknow,Uttar Pradesh,Consumer,2023-03-28
+CUST0049,Aditya Verma,Bengaluru,Karnataka,Consumer,2022-05-19
+CUST0050,Yash Kapoor,Mumbai,Maharashtra,Consumer,2024-11-18
+CUST0051,Meera Ghosh,Bengaluru,Karnataka,Consumer,2025-01-09
+CUST0052,Varun Joshi,Lucknow,Uttar Pradesh,Consumer,2024-08-26
+CUST0053,Nikhil Ghosh,Guwahati,Assam,Consumer,2024-04-13
+CUST0054,Ishaan Iyer,Bhopal,Madhya Pradesh,Corporate,2024-06-01
+CUST0055,Arjun Bose,Ahmedabad,Gujarat,Home Office,2022-04-21
+CUST0056,Isha Iyer,Kolkata,West Bengal,Home Office,2024-04-04
+CUST0057,Priya Iyer,Bengaluru,Karnataka,Consumer,2023-01-28
+CUST0058,Aman Sen,Delhi,Delhi,Consumer,2024-05-14
+CUST0059,Meera Sen,Bengaluru,Karnataka,Corporate,2022-06-04
+CUST0060,Nikhil Pillai,Mumbai,Maharashtra,Home Office,2022-04-14
