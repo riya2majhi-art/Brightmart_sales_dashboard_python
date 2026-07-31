@@ -58,7 +58,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-(Add your Streamlit deployment link here after deployment.)
+https://brightmartsalesdashboardpython-heirqqvfgdmcrrfvqfkfdp.streamlit.app/
 
 ## 👩‍💻 Author
 
